@@ -28,12 +28,13 @@ Here are some ideas to get you started:
 ## 🚀 Language and Tools
  <!-- <div style="display: inline_block"><br> -->
  <p align="left">
-   <img align="center" height="30" wight="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
    <img align="center" height="30" wight="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" height="30" wight="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" height="30" wight="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" height="30" wight="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img align="center" height="30" wight="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+   <img align="center" height="30" wight="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/boostrap/boostrap-original.svg">
+
  </p>
   
 ##
